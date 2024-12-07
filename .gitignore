@@ -1,5 +1,4 @@
 .venv
-
-dp.ssqlite3
+/.venv
 
 _pycache_
